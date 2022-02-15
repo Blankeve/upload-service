@@ -1,0 +1,7 @@
+
+
+server:
+  port: 9999
+
+user:
+  filePath: C:\Users\dzyx\Documents\nov_log\
